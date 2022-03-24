@@ -1,0 +1,12 @@
+
+MySQL-transactions-docs
+https://dev.mysql.com/doc/refman/8.0/en/commit.html
+
+PostgreSQL-transactions-docs
+https://www.postgresql.org/docs/8.3/tutorial-transactions.html
+
+SQL-statement-to-add-customer
+https://github.com/academind/sql-complete-guide-code/blob/10-database-transactions/sql/create-project/03-add-additional-customer.sql
+
+More-about-implicit-commits
+https://dev.mysql.com/doc/refman/8.0/en/implicit-commit.html

@@ -1,0 +1,15 @@
+
+mySQL-Docs
+https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html
+
+PostgreSQL-Docs
+https://www.postgresql.org/docs/current/functions-aggregate.html
+
+SQL-statements-to-create-the-project
+https://github.com/academind/sql-complete-guide-code/tree/08-grouping-aggregate-functions/sql/create-project
+
+MySQL-window-functions-docs
+https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html
+
+PostgreSQL-window-functions-docs
+https://www.postgresql.org/docs/current/functions-window.html

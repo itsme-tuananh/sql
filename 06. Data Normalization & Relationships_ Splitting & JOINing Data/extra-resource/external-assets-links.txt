@@ -1,0 +1,12 @@
+
+More-Information-on-Data-Normalization-Forms
+https://en.wikipedia.org/wiki/Database_normalization
+
+Example-Data-SQL
+https://github.com/academind/sql-complete-guide-code/blob/06-data-normalization-relationships/sql/07-insert-more-data.sql
+
+CREATE-TABLE-SQL
+https://github.com/academind/sql-complete-guide-code/blob/06-data-normalization-relationships/sql/02-create-tables.sql
+
+Example-Data-2-SQL
+https://github.com/academind/sql-complete-guide-code/blob/06-data-normalization-relationships/sql/11-inserting-unrelated-data.sql

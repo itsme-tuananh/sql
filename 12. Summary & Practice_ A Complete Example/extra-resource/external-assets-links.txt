@@ -1,0 +1,3 @@
+
+Example-Data-SQL
+https://github.com/academind/sql-complete-guide-code/blob/12-summary-practice/sql/07-insert-dummy-data.sql

@@ -1,0 +1,6 @@
+
+Example-Data-SQL
+https://github.com/academind/sql-complete-guide-code/blob/05-data-manipulation-crud/sql/03-insert-more-data.sql
+
+Example-Data-Wrong-SQL
+https://github.com/academind/sql-complete-guide-code/blob/05-data-manipulation-crud/sql/04-insert-wrong-data.sql

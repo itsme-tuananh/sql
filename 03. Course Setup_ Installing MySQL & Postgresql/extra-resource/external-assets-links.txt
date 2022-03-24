@@ -1,0 +1,12 @@
+
+MySQL-All-Community-Tools-Download-Page
+https://dev.mysql.com/downloads/
+
+MySQL-Community-Server-Download-Page
+https://dev.mysql.com/downloads/mysql/
+
+Postgresql-Download-Page
+https://www.postgresql.org/download/
+
+Switching-Auth-Mode-SQL-MySQL-
+https://github.com/academind/sql-complete-guide-code/blob/03-setup/sql/switch-auth-mode.sql

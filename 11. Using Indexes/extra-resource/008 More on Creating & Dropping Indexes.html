@@ -1,0 +1,4 @@
+<p>Besides creating indexes via <code>CREATE&nbsp;INDEX</code>, you can also add an index to a table right when creating that table - like this:</p><pre class="prettyprint linenums">CREATE&nbsp;TABLE &lt;table_name&gt; (
+    ... column definitions,
+    INDEX &lt;index_name&gt; (&lt;column&gt;)
+);</pre><p>Please note that this is <strong>supported when using MySQL</strong> but it <strong>won't work with Postgresql</strong>.</p><p>You should always dive into the documentation of the database system you're using, to learn which features /&nbsp;syntax is available!</p><p>If you want to get rid of an index, you can also always do that via <code>DROP&nbsp;INDEX &lt;index_name&gt;</code>.</p>

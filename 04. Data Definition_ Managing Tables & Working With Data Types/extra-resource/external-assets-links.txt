@@ -1,0 +1,9 @@
+
+What-Every-Developer-Should-Know-About-Floating-Point-Numbers
+https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+
+Discussion-About-Float-vs-Decimal-Numeric
+https://stackoverflow.com/questions/1056323/difference-between-numeric-float-and-decimal-in-sql-server
+
+The-Problem-With-Floating-Point-Numbers
+https://dev.mysql.com/doc/refman/8.0/en/problems-with-float.html

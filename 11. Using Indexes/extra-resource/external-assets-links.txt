@@ -1,0 +1,9 @@
+
+Starting-Setup-SQL
+https://github.com/academind/sql-complete-guide-code/blob/11-using-indexes/sql/01-starting-setup.sql
+
+More-on-EXPLAIN-MySQL-
+https://dev.mysql.com/doc/refman/5.7/en/using-explain.html
+
+More-on-EXPLAIN-PostgreSQL-
+https://www.postgresql.org/docs/current/sql-explain.html
